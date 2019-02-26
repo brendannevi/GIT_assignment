@@ -1,0 +1,2 @@
+This is UserA creating a 
+new file on the developA branch.
